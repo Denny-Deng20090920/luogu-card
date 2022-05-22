@@ -24,7 +24,7 @@
 
 ## 基本信息
 
-![Jerry_Zhou的基本信息](https://api.jerryz.com.cn/about?id=253620)
+![Denny_Deng的基本信息](https://api.jerryz.com.cn/about?id=705806)
 
 此卡片用于显示一个用户的基本信息，包括用户类型、关注、咕值排名、个性签名。
 
@@ -33,18 +33,18 @@
 1. 仅使用图片：直接复制以下内容到任意 markdown 编辑器中，并将`?id=`后面的数字更改为自己的 id 即可（id是洛谷的用户编号）。
 
    ```markdown
-   ![Jerry_Zhou的基本信息](https://api.jerryz.com.cn/about?id=253620)
+   ![Denny_Deng的基本信息](https://api.jerryz.com.cn/about?id=705806)
    ```
 
 2. 使用图片链接：复制以下内容，第二个小括号内的地址是点击该图片跳转的地址，建议设置为洛谷个人主页。
 
    ```markdown
-   [![Jerry_Zhou的基本信息](https://api.jerryz.com.cn/about?id=253620)](https://www.luogu.com.cn/user/253620)
+   [![Denny_Deng的基本信息](https://api.jerryz.com.cn/about?id=705806)](https://www.luogu.com.cn/user/705806)
    ```
 
 ## 练习徽章
 
-![Jerry_Zhou的练习徽章](https://api.jerryz.com.cn/shield?id=253620)
+![Denny_Deng的练习徽章](https://api.jerryz.com.cn/shield?id=705806)
 
 练习徽章可以自动获取用户的做题数据，类似于练习卡片，只是仅用一行简单显示，开启“完全隐私保护”后则无法正常获取数据。练习徽章无法使用自定义选项。
 
@@ -53,18 +53,18 @@
 1. 仅使用图片：直接复制以下内容到任意 markdown 编辑器中，并将`?id=`后面的数字更改为自己的 id 即可（id是洛谷的用户编号）。
 
    ```markdown
-   ![Jerry_Zhou的练习徽章](https://api.jerryz.com.cn/shield?id=253620)
+   ![Denny_Deng的练习徽章](https://api.jerryz.com.cn/shield?id=705806)
    ```
 
 2. 使用图片链接：复制以下内容，第二个小括号内的地址是点击该图片跳转的地址，建议设置为洛谷个人练习页面。
 
    ```markdown
-   [![Jerry_Zhou的练习徽章](https://api.jerryz.com.cn/shield?id=253620)](https://www.luogu.com.cn/user/253620#practice)
+   [![Denny_Deng的练习徽章](https://api.jerryz.com.cn/shield?id=705806)](https://www.luogu.com.cn/user/705806#practice)
    ```
 
 ## 练习情况
 
-![Jerry_Zhou的练习情况](https://api.jerryz.com.cn/practice?id=253620)
+![Denny_Deng的练习情况](https://api.jerryz.com.cn/practice?id=705806)
 
 练习情况可以自动获取用户的数据，但是前提是没有开启“完全隐私保护”。
 
@@ -73,18 +73,18 @@
 1. 仅使用图片：直接复制以下内容到任意 markdown 编辑器中，并将`?id=`后面的数字更改为自己的 id 即可（id是洛谷的用户编号）。
 
    ```markdown
-   ![Jerry_Zhou的练习情况](https://api.jerryz.com.cn/practice?id=253620)
+   ![Denny_Deng的练习情况](https://api.jerryz.com.cn/practice?id=705806)
    ```
 
 2. 使用图片链接：复制以下内容，第二个小括号内的地址是点击该图片跳转的地址，建议设置为洛谷个人练习页面。
 
    ```markdown
-   [![Jerry_Zhou的练习情况](https://api.jerryz.com.cn/practice?id=253620)](https://www.luogu.com.cn/user/253620#practice)
+   [![Denny_Deng的练习情况](https://api.jerryz.com.cn/practice?id=705806)](https://www.luogu.com.cn/user/705806#practice)
    ```
 
 ## 咕值信息
 
-![Jerry_Zhou的咕值信息](https://api.jerryz.com.cn/guzhi?id=253620&scores=100,14,0,4,20)
+![Denny_Deng的咕值信息](https://api.jerryz.com.cn/guzhi?id=705806&scores=100,20,0,0,0)
 
 咕值信息一般无法自动获取数据，如果需要必须要提供cookie，但是这种方法十分不安全，并且不方便。所以获取咕值卡片可能需要手动输入咕值信息，具体使用方法如下：
 
@@ -93,12 +93,12 @@
 1. 仅使用图片：复制以下内容到任意 markdown 编辑器中，并将 `?id=`后面的数字更改为自己的 id，将`scores=`后面更换为自己的咕值信息，一共 5 个数字（分别代表基础信用、练习情况、社区贡献、比赛情况、获得成就），用英文半角逗号分隔。
 
    ```markdown
-   ![Jerry_Zhou的咕值信息](http://api.jerryz.com.cn/guzhi?id=253620&scores=100,70,25,45,0)
+   ![Denny_Deng的咕值信息](http://api.jerryz.com.cn/guzhi?id=705806&scores=100,20,0,0,0)
    ```
    
 2. 使用图片链接：复制以下内容，第二个小括号内的地址是点击该图片跳转的地址，建议设置为洛谷个人主页。
    ```markdown
-   [![Jerry_Zhou的咕值信息](http://api.jerryz.com.cn/guzhi?id=253620&scores=100,70,25,45,0)](https://www.luogu.com.cn/user/253620)
+   [![Denny_Deng的咕值信息](http://api.jerryz.com.cn/guzhi?id=705806&scores=100,20,0,0,0)](https://www.luogu.com.cn/user/705806)
    ```
    
 
@@ -112,31 +112,31 @@
 1. **隐藏标题**，只需在链接最后带上`&hide_title=true`即可，例如：
 
    ```markdown
-   ![Jerry_Zhou的练习情况](https://luogu-card.vercel.app/practice?id=253620&hide_title=true)
+   ![Denny_Deng的练习情况](https://luogu-card.vercel.app/practice?id=705806&hide_title=true)
    ```
 
    效果：
 
-   ![Jerry_Zhou的练习情况](https://api.jerryz.com.cn/practice?id=253620&hide_title=1)
+   ![Jerry_Zhou的练习情况](https://api.jerryz.com.cn/practice?id=705806&hide_title=1)
 
 2. **黑暗模式**，只需在链接最后带上`&dark_mode=true`即可，例如：
 
    ```markdown
-   ![Jerry_Zhou的练习情况](https://api.jerryz.com.cn/practice?id=253620&dark_mode=true)
+   ![Denny_Deng的练习情况](https://api.jerryz.com.cn/practice?id=705806&dark_mode=true)
    ```
 
    效果：
 
-   ![Jerry_Zhou的练习情况](https://api.jerryz.com.cn/practice?id=253620&dark_mode=true)
+   ![Denny_Deng的练习情况](https://api.jerryz.com.cn/practice?id=705806&dark_mode=true)
 3. **自定义宽度**，默认500，限制宽度在500到1920之间，只需在链接最后带上`&card_width=需要的宽度`即可，例如：
 
    ```markdown
-   ![Jerry_Zhou的练习情况](https://api.jerryz.com.cn/practice?id=253620&card_width=750)
+   ![Denny_Deng的练习情况](https://api.jerryz.com.cn/practice?id=705806&card_width=750)
    ```
 
    效果：
 
-   ![Jerry_Zhou的练习情况](https://api.jerryz.com.cn/practice?id=253620&card_width=750)
+   ![Denny_Deng的练习情况](https://api.jerryz.com.cn/practice?id=705806&card_width=750)
    
 4. **禁用缓存**，默认情况下，程序会有12小时的缓存。但是只需在链接最后带上`&disable_cache=true`即可禁用缓存，每次访问都将刷新。
 
@@ -144,13 +144,13 @@
 
 如果想要自行试验或者二次开发可以自行部署到自己的 vercel 服务器，登录 [vercel](https://vercel.com/) 后，点击下方按钮即可部署。
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/YangguangZhou/Luogu-User-Card)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/Denny-Deng20090920/luogu-card)
 
 # 如何参与贡献
 
 ## 提供bug反馈或建议
 
-使用 [issue](https://github.com/YangguangZhou/Luogu-User-Card/issues) 反馈bug时，尽可能详细描述 bug 及其复现步骤
+使用 [issue](https://github.com/Denny-Deng20090920/luogu-card/issues) 反馈bug时，尽可能详细描述 bug 及其复现步骤
 
 ## 贡献代码的步骤
 
@@ -167,6 +167,6 @@
 
 # LICENSE
 
-[![GNU Lesser General Public License v2.1](https://badgen.net/github/license/cyrxdzj/luogu-card)](https://github.com/YangguangZhou/Luogu-User-Card/blob/master/LICENSE)
+[![GNU Lesser General Public License v2.1](https://badgen.net/github/license/cyrxdzj/luogu-card)](https://github.com/Denny-Deng20090920/luogu-card/blob/master/LICENSE)
 
-版权所有 © 2020 - 2022 YangguangZhou
+版权所有 © 2020 - 2022 Denny-Deng20090920
